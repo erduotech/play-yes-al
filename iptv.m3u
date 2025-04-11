@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://play.yes.al/tubiao/zhongtianxinwentai.png" group-title="新闻台",中天新闻台
 https://world.yes.al/stream/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 tvg-name="中天新闻备" tvg-logo="https://play.yes.al/tubiao/zhongtianxinwentai.png" group-title="新闻台",中天新闻备
+https://stream1.freetv.fun/5b84b0baf55fce778cffd1d5a35ef8e77dfb02436d82cd5a83dd78c61c90462e.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://play.yes.al/tubiao/tvbsxinwentai.png" group-title="新闻台",TVBS新闻台
 http://tvbs-yz.yes.al/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://play.yes.al/tubiao/tvbshd.png" group-title="新闻台",TVBS HD
