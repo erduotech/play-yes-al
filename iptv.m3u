@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://play.yes.al/tubiao/zhongtianxinwen.png" group-title="新闻台",中天新闻台
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://play.yes.al/tubiao/zhongtianxinwentai.png" group-title="新闻台",中天新闻台
 https://world.yes.al/stream/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://play.yes.al/tubiao/tvbs.png" group-title="新闻台",TVBS新闻台
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://play.yes.al/tubiao/tvbsxinwentai.png" group-title="新闻台",TVBS新闻台
 https://world.yes.al/stream/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://play.yes.al/tubiao/tvbshd.png" group-title="新闻台",TVBS HD
 https://0472.org/hls/cgtnd.m3u8
@@ -23,7 +23,7 @@ https://world.yes.al/stream/taiwan/null-13/AKTV.m3u8
 https://world.yes.al/stream/taiwan/null-15/AKTV.m3u8
 #EXTINF:-1 tvg-name="娛樂新聞台(HK)" tvg-logo="https://play.yes.al/tubiao/yulexinwentai.png" group-title="新闻台",娛樂新聞台(HK)
 https://world.yes.al/stream/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-name="ESPN NEWS" tvg-logo="https://play.yes.al/tubiao/yulexinwentai.png" group-title="新闻台",ESPN NEWS
+#EXTINF:-1 tvg-name="ESPN NEWS" tvg-logo="https://play.yes.al/tubiao/espnnews.png" group-title="新闻台",ESPN NEWS
 https://world.yes.al/stream/useradd1/espnnews/AKTV.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://play.yes.al/tubiao/mingzhutai.png" group-title="电视频道",明珠台
 https://world.yes.al/stream/aktv/null-2/AKTV.m3u8
@@ -33,9 +33,9 @@ https://world.yes.al/stream/aktv/null/AKTV.m3u8
 https://world.yes.al/stream/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://play.yes.al/tubiao/fenghuangzixun.png" group-title="电视频道",鳳凰資訊
 https://world.yes.al/stream/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://play.yes.al/tubiao/fenghuangzixun.png" group-title="电视频道",鳳凰香港
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://play.yes.al/tubiao/fenghuangxianggang.png" group-title="电视频道",鳳凰香港
 https://world.yes.al/stream/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="https://play.yes.al/tubiao/fenghuangzixun.png" group-title="电视频道",黃金翡翠台
+#EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="https://play.yes.al/tubiao/huangjinfeicui.png" group-title="电视频道",黃金翡翠台
 https://world.yes.al/stream/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-name="東方衛視國際頻道" tvg-logo="https://play.yes.al/tubiao/dongfangweishi.png" group-title="电视频道",東方衛視國際頻道
 https://world.yes.al/stream/aktv3/null/AKTV.m3u8
@@ -43,6 +43,12 @@ https://world.yes.al/stream/aktv3/null/AKTV.m3u8
 https://world.yes.al/stream/taiwan/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="台視" tvg-logo="https://play.yes.al/tubiao/taishi.png" group-title="电视频道",台視
 https://world.yes.al/stream/taiwan/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://play.yes.al/tubiao/huashi.png" group-title="电视频道",華視
+https://world.yes.al/stream/taiwan/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS 欢乐" tvg-logo="https://play.yes.al/tubiao/tvbshuanle.png" group-title="电视频道",TVBS 欢乐
+https://
+#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://play.yes.al/tubiao/zhongtianyazhou.png" group-title="电视频道",中天亚洲
+https://
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://play.yes.al/tubiao/huashi.png" group-title="电视频道",華視
 https://world.yes.al/stream/taiwan/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="香港TVB" tvg-logo="https://play.yes.al/tubiao/xianggangtvb.png" group-title="电视频道",香港TVB
