@@ -4,7 +4,7 @@ https://world.yes.al/stream/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://play.yes.al/tubiao/tvbsxinwentai.png" group-title="新闻台",TVBS新闻台
 https://world.yes.al/stream/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://play.yes.al/tubiao/tvbshd.png" group-title="新闻台",TVBS HD
-https://0472.org/hls/cgtnd.m3u8
+https://tvbs-hd.yes.al/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://play.yes.al/tubiao/huanyuxinwentai.png" group-title="新闻台",寰宇新聞台
 https://world.yes.al/stream/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://play.yes.al/tubiao/wuxianxinwentai.png" group-title="新闻台",無線新聞台
@@ -46,9 +46,11 @@ https://world.yes.al/stream/taiwan/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://play.yes.al/tubiao/huashi.png" group-title="电视频道",華視
 https://world.yes.al/stream/taiwan/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS 欢乐" tvg-logo="https://play.yes.al/tubiao/tvbshuanle.png" group-title="电视频道",TVBS 欢乐
-https://
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 tvg-name="TVBS 亚洲" tvg-logo="https://play.yes.al/tubiao/tvbshuanle.png" group-title="电视频道",TVBS 亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://play.yes.al/tubiao/zhongtianyazhou.png" group-title="电视频道",中天亚洲
-https://
+https://tvbs-hd.yes.al/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://play.yes.al/tubiao/huashi.png" group-title="电视频道",華視
 https://world.yes.al/stream/taiwan/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="香港TVB" tvg-logo="https://play.yes.al/tubiao/xianggangtvb.png" group-title="电视频道",香港TVB
